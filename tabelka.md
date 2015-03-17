@@ -68,11 +68,11 @@ Tabelka w html
 |Kursywa | _tekst_    |    ## |
 |Pogrubienie | **teskt**  | **tekst**|
 |Przekreślenie| brak  |  ~~tekst~~|
-|Zacienienie |+tekst+  |   ``teskt`` |
+|Zacienienie |+tekst+  |   ``tekst`` |
 |Lista numerowana |.jeden .dwa   |   1. jeden 2. dwa |
-|Lista punktowana| *jeden **dwa     |   *jeden (lub - +) |
-|Podlista numerowana|..podpunkt (ile ... taki stopień)  | [tab] 1. podpunkt|
-|Podlusta punkty| * podpuntk (ile ** taki podpunkt)  | [tab] - podpunkt (* lub +) |
+|Lista punktowana| *jeden **dwa     |   - punkt (* lub +)|
+|Podlista numerowana|..podpunkt (ile ... taki stopień)  | ⟶ 1. podpunkt|
+|Podlusta punkty| * podpuntk (ile ** taki podpunkt)  | ⟶ - podpunkt(* lub +) |
 |Link|http://adres.pl [nazawa]   |  [nazwa](www.adres.pl) |
 
 
