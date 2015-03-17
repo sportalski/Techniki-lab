@@ -1,6 +1,6 @@
 <table>
 <tr>
-	<td>FUNKCJA</td>	<td>ASCI</td>		<td>MARKDOWN</td>
+	<td>FUNKCJA align="center" valign="middle"</td>	<td>ASCI align="center" valign="middle"</td>		<td>MARKDOWN align="center" valign="middle"</td>
 </tr>
 <tr>
 	<td>Nagłówek H</td>	<td>====lub==H1</td>		<td></td>
