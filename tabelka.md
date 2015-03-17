@@ -79,6 +79,17 @@ Tabelka w html
 
 
 
+| Data       | Godzina         | Konkurencja |
+| ------------- |:-------------:| -----:|
+| 19 lutego    | 15:15|Sprinty s. klasycznym |
+| 21 lutego       | 13:00 14:30   | Bieg łączony kobiet 7,5+7,5km 	Bieg łączony mężczyzn 15+15km |
+| 22 lutego   |14:30   |  Sprinty drużynowe s. dowolnym |
+| 24 lutego   | 13:30 |   10 km s. dowolnym kobiet|
+| 25 lutego  |13:30  |  15 km s. dowolnym mężczyzn |
+|26 lutego  | 13:30   |    Sztafeta kobiet 4x5 km |
+|27 lutego   | 13:30 | Sztafeta mężczyzn 4x10 km|
+|28 lutego| 13:00 |  30 km s. klasycznym kobiet (bieg masowy)|
+|1 marca |13:30  |  50 km s. klasycznym mężczyzn (bieg masowy) |
 
 
 
