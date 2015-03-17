@@ -1,9 +1,21 @@
 <table>
 <tr>
-	<td>FUNKCJA</td>	<td>ASCI</td>
+	<td>FUNKCJA</td>	<td>ASCI</td>		<td>MARKDOWN</td>
 </tr>
 <tr>
-	<td>komórka3</td>	<td>komórka4</td>
+	<td>Nagłówek H</td>	<td>====lub==H1</td>
+</tr>
+<tr>
+	<td>Nagłówek H1</td>	<td>----lub ===H2</td>		<td>#</td>
+</tr>
+<tr>
+	<td>Nagłówek H2</td>	<td>~~~~lub ====H3</td>		<td>##</td>
+</tr>
+<tr>
+	<td>Nagłówek H3</td>	<td>^^^^lub =====H4</td>	<td>###</td>
+</tr>
+<tr>
+	<td>Nagłówek H4</td>	<td>++++lub ======H5</td>	<td>####</td>
 </tr>
 </table>
 
