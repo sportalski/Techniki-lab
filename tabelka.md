@@ -77,7 +77,7 @@ Tabelka w html
 
 
 
-Biegi narciarskie
+Biegi narciarskie (MARKDOWN)
 
 | Data       | Godzina         | Konkurencja |
 | ------------- |:-------------:| -----:|
@@ -93,7 +93,6 @@ Biegi narciarskie
 
 
 
-Kombinacja norweska
 
 
 
