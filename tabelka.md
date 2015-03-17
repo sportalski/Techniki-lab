@@ -1,6 +1,6 @@
 <table>
 <tr>
-	<td> bgcolor="kolor góra" colspan="2" align="center" valign="middle"> Funkcja</td>	<td> bgcolor="kolor góra" colspan="2" align="center" valign="middle"> ASCI</td>		<td> bgcolor="kolor góra" colspan="2" align="center" valign="middle"> MARKDOWN</td>
+	<td> Funkcja</td>	<td> ASCI</td>		<td> MARKDOWN</td>
 </tr>
 <tr>
 	<td>Nagłówek H</td>	<td>====lub==H1</td>		<td></td>
