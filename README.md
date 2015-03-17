@@ -1,2 +1,7 @@
 # Techniki-lab
-dsa
+Techniki internetowe Tabelka 1
+|        |        |   |
+| ------------- |:-------------:| -----:|
+|       |  |  |
+|      |     |    |
+| |       |    |
