@@ -77,7 +77,7 @@ Tabelka w html
 
 
 
-
+Biegi narciarskie
 
 | Data       | Godzina         | Konkurencja |
 | ------------- |:-------------:| -----:|
@@ -91,6 +91,9 @@ Tabelka w html
 |28 lutego| 13:00 |  30 km s. klasycznym kobiet (bieg masowy)|
 |1 marca |13:30  |  50 km s. klasycznym mężczyzn (bieg masowy) |
 
+
+
+Kombinacja norweska
 
 
 
