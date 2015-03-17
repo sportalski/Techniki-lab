@@ -1,3 +1,5 @@
+Tabelka w html
+
 <table>
 <tr>
 	<td><b>Funkcja</b></td>	<td><b>ASCI</b></td>		<td><b>MARKDOWN</b></td>
