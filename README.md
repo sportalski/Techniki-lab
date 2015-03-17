@@ -1,7 +1,7 @@
 # Techniki-lab
 Techniki internetowe Tabelka 1
 
-| Tables        | Are           | Cool  |
+| Tabela Druga       |         |  |
 | ------------- |:-------------:| -----: |
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
