@@ -3,7 +3,7 @@
 	<td>FUNKCJA</td>	<td>ASCI</td>		<td>MARKDOWN</td>
 </tr>
 <tr>
-	<td>Nagłówek H</td>	<td>====lub==H1</td>
+	<td>Nagłówek H</td>	<td>====lub==H1</td>		<td></td>
 </tr>
 <tr>
 	<td>Nagłówek H1</td>	<td>----lub ===H2</td>		<td>#</td>
@@ -17,6 +17,43 @@
 <tr>
 	<td>Nagłówek H4</td>	<td>++++lub ======H5</td>	<td>####</td>
 </tr>
+<tr>
+	<td>kursywa</td>	<td>_tekst_</td>	<td>*tekst* _tekst_</td>
+</tr>
+<tr>
+	<td>pogrubienie</td>	<td>**tekst**</td>	<td>**tekst**</td>
+</tr>
+<tr>
+	<td>przekreślenie</td>	<td></td>	<td>~~tekst~~</td>
+</tr>
+<tr>
+	<td>zacienienie</td>	<td>+tekst+</td>	<td>``tekst``</td>
+</tr>
+<tr>
+	<td>lista numerowana</td>	<td>. Jeden</td>	<td>1. Jeden</td>
+</tr>
+<tr>
+	<td>Lista kropokowana</td>	<td>- Jeden</td>	<td>- punkt (*lub+)</td>
+</tr>
+<tr>
+	<td>podlista numerowana</td>	<td>.. podpunkt(ile ..taki stopień)</td>	<td> 1/ podpunkt</td>
+</tr>
+<tr>
+	<td>podlista kropki</td>	<td>* podpunkt(ile *** taki stopień)</td>	<td> - podpunkt(* lub +)</td>
+</tr>
+<tr>
+	<td>Linki</td>	<td> h.ttp://adres.pl[nazwa]</td>	<td>[nazwa](www.adres.pl)</td>
+</tr>
+<tr>
+	<td>Linki z "opisem"</td>	<td></td>	<td>[nazwa](www.adres.pl"opis")</td>
+</tr>
+<tr>
+	<td>Link z "przypisem"</td>	<td></td>	<td>tekst[1] [1]:www.adres.pl</td>
+</tr>
+<tr>
+	<td>Obrazek</td>	<td></td>	<td>![alt text](https://adres.pl "Tytył,nazwa")</td>
+</tr>
+
 </table>
 
 
