@@ -8,10 +8,11 @@ Techniki internetowe Tabelka 1
 | 3 |       |    $1 |
 
 
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt></dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
+<table>
+<tr>
+	<td>komórka1</td>	<td>komórka2</td>
+</tr>
+<tr>
+	<td>komórka3</td>	<td>komórka4</td>
+</tr>
+</table>
