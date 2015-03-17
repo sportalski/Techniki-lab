@@ -8,6 +8,8 @@ Techniki internetowe Tabelka 1
 | 3 |       |    $1 |
 
 
+Tabelka w HTML
+
 <table>
 <tr>
 	<td>komórka1</td>	<td>komórka2</td>
