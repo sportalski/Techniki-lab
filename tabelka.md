@@ -56,6 +56,34 @@
 
 </table>
 
+| FUNKCJA        | ASCUU          | MARKDOWN |
+| ------------- |:-------------:| -----:|
+| Nagłówek H     | ====== lub ==H | nie ma |
+| Nagłówek H1      | ----- lub ===H1      |   # |
+| Nagłówek H2 | ~~~~~ lub ====H2      |    ## |
+| Nagłówek H3 | ^^^^^ lub =====H3    |    ### |
+| Nagłówek H4 | +++++ lub ======H4     |   #### |
+|Kursywa | _tekst_    |    ## |
+|Pogrubienie | **teskt**  | **tekst**|
+|Przekreślenie| brak  |  ~~tekst~~|
+|Zacienienie |+tekst+  |   ``teskt`` |
+|Lista numerowana |.jeden .dwa   |   1. jeden 2. dwa |
+|Lista punktowana| *jeden **dwa     |   *jeden (lub - +) |
+|Podlista numerowana|..podpunkt (ile ... taki stopień)  | [tab] 1. podpunkt|
+|Podlusta punkty| * podpuntk (ile ** taki podpunkt)  | [tab] - podpunkt (* lub +) |
+|Link|http://adres.pl [nazawa]   |  [nazwa](www.adres.pl) |
+
+
+
+
+
+
+
+
+
+
+
+
 
 <table width="750" align="center" cellspacing="0" cellpadding="10">
 <tr>
